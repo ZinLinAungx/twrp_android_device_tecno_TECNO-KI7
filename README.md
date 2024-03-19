@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO KI7 (TECNO-KI7)
+# Android device tree for TECNO  KI7 (TECNO-KI7)
 
 ```
 #
@@ -8,3 +8,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+# create by frn 
